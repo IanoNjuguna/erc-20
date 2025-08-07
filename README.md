@@ -19,6 +19,8 @@ Example functionalities ERC-20 provides:
 If a Smart Contract implements the following methods and events it can be called an ERC-20 Token Contract and, 
 once deployed, it will be responsible to keep track of the created tokens onchain.
 
+
+
 https://eips.ethereum.org/EIPS/eip-20
 
 https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
