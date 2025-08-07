@@ -1,6 +1,5 @@
 # erc-20
-Ethereum Request for Comments 20:
-    The Token Standard that implements an API for tokens within Smart Contracts.
+Implement an API for tokens within Smart Contracts.
 
 Tokens can represent virtually anything in Ethereum:
 
@@ -18,7 +17,7 @@ Example functionalities ERC-20 provides:
 * approve whether an amount of token from an account can be spent by a third-party account
 
 If a Smart Contract implements the following methods and events it can be called an ERC-20 Token Contract and, 
-once deployed, it will be responsible to keep track of the created tokens on the chain.
+once deployed, it will be responsible to keep track of the created tokens onchain.
 
 https://eips.ethereum.org/EIPS/eip-20
 
