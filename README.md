@@ -1,5 +1,6 @@
 # erc-20
-Implement an API for tokens within Smart Contracts.
+
+API for tokens within Smart Contracts.
 
 Tokens can represent virtually anything:
 
