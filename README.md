@@ -1,6 +1,8 @@
-# erc-20
+# The ERC-20 standard
 
-API for tokens within Smart Contracts.
+This is the default API standard for creating and managing tokens within EVM-compatible smart contracts.
+
+## What are Tokens?
 
 Tokens can represent virtually anything:
 
@@ -10,7 +12,7 @@ Tokens can represent virtually anything:
 * a fiat currency like USD
 * an ounce of gold
 
-Example functionalities ERC-20 provides:
+Example functionalities the ERC-20 standard provides:
 
 * transfer tokens from one account to another
 * get the current token balance of an account
@@ -20,7 +22,9 @@ Example functionalities ERC-20 provides:
 If a Smart Contract implements the following methods and events it can be called an ERC-20 Token Contract and, 
 once deployed, it will be responsible to keep track of the created tokens onchain.
 
+## references
 
+https://build.avax.network/docs/dapps/smart-contract-dev/erc-20-token
 
 https://eips.ethereum.org/EIPS/eip-20
 
